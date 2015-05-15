@@ -1,0 +1,1 @@
+C:\Users\StepanovRI\1\Hello Dependency Injection\Hello Dependency Injection Project\Hello Dependency Injection Project\bin\Debug\Hello Dependency Injection Project.exe.config
