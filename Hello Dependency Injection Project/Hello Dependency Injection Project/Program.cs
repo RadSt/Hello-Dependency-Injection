@@ -10,6 +10,10 @@ namespace Hello_Dependency_Injection_Project
     {
         static void Main(string[] args)
         {
+            IMessageWriter writer=new ConsoleMessageWriter();
+            var salutation = new Salutation(writer);
+            salutation.Exclaim();
+            Console.ReadKey();
         }
     }
 }
